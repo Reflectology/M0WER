@@ -418,6 +418,6 @@ The extension is a **passive analysis tool** that helps you visualize your codeb
 
 ---
 
-**Last Updated:** 2025-01-19  
+**Last Updated:** 2025-10-08  
 **Version Analyzed:** 0.1.1  
 **Codebase Reference:** https://github.com/Reflectology/M0WER
