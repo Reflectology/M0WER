@@ -2,6 +2,7 @@
 
 M0WER is the vision became reality of math once as a blueprint that writes and works everywhere.
 
+![M0WER Logo](https://github.com/Reflectology/M0WER/blob/main/resources/coloredmower.png)
 
 ## Features
 
