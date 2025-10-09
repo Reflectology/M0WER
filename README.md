@@ -30,7 +30,10 @@ M0WER is the vision became reality of math once as a blueprint that writes and w
 9. Drag the panel dividers to resize the diagram, info, and toolbar areas as needed.
 
 
-![image](https://github.com/Reflectology/DNA/blob/main/resources/coloredmower.png)
+![HelloWorlds](https://github.com/Reflectology/M0WER/blob/main/resources/HelloWorlds.png)
+![HelloWorlds1](https://github.com/Reflectology/M0WER/blob/main/resources/HelloWorlds1.png)
+![HelloWorlds2](https://github.com/Reflectology/M0WER/blob/main/resources/HelloWorlds2.png)
+
 ## Metrics
 
 Each file node in the diagram displays several metrics:
