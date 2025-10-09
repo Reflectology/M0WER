@@ -30,6 +30,9 @@ M0WER is the vision became reality of math once as a blueprint that writes and w
 8. Use the layout dropdown to switch between force, tree, cluster, radial, and other views.
 9. Drag the panel dividers to resize the diagram, info, and toolbar areas as needed.
 
+### Language Compatibility
+
+The following screenshots demonstrate M0WER's visualization of "Hello World" programs in different programming languages. Languages that display an extra node after the filename are currently compatible with the visualizer's function detection - these extra nodes represent detected functions within the file. Languages without this extra node are not yet fully compatible with the visualizer's token-based function detection pattern.
 
 ![HelloWorlds](https://github.com/Reflectology/M0WER/blob/main/resources/HelloWorlds.png)
 ![HelloWorlds1](https://github.com/Reflectology/M0WER/blob/main/resources/HelloWorlds1.png)
