@@ -6,21 +6,21 @@ M0WER is the vision became reality of math once as a blueprint that writes and w
 
 ## Features
 
-- Visualizes your entire codebase as an interactive graph (force, tree, cluster, radial, and more)
+- Visualizes your entire codebase as an interactive graph (force & radial)
 - Entity tree view for folders, files, and functions
-- Click or double-click nodes to highlight and jump to code in the editor
+- Click or double-click file nodes to highlight and jump to code in the editor
 - Metrics panel shows complexity, utility, cost, and line count for each node
-- UML class diagram overlays for files and classes
-- Dependency, import, and call relationships visualized as edges
-- Multiple D3 layouts: force-directed, tree, cluster, radial, partition, treemap, etc.
+- UML class diagram overlays for files and classes - not functioning correctly
+- Dependency, import, and call relationships visualized as edges - not functioning correctly
+- D3 layouts: force and radial
 - Resizable and dockable panels, just like native VS Code
 - Quick side panel access to all visualization options (no need for Ctrl+Shift+P)
-- Works with any language/codebase (token-based analysis)
+- Works with multiple languages and in any codebase 
 
 
 ## Usage
 
-1. Install the extension from the VSIX or Marketplace.
+1. Install the extension from the VSIX.
 2. Open a folder or workspace in VS Code.
 3. Click the "M0WER" icon in the side panel to open the visualizer and entity tree.
 4. Click "Visualize Codebase Structure" or "Generate Diagram" from the side panel options.
